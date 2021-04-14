@@ -10,3 +10,6 @@ Natural Language Processing, LDA topic modeling, and sentiment analysis will be 
 For context, LDA topic modeling is a popular topic modeling method which aims to find abstract topics within a document of words, which in this case, are the Amazon reviews and find meaning within those reviews. The reason why I chose to do this project on LDA and NLP is because I wanted to get more experience and familiarity within the NLP data science domain. I wanted to get better at it and also use these tools towards a real life application which, in this case, are the
 Amazon reviews geared towards game consoles. I am an avid gamer myself which is why I chose these products for my
 project.
+
+
+Please run Game Console Sentiment Analysis- Markdown - Binder Version.ipynb on your machine to view and run the project.
