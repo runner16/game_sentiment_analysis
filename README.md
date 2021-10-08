@@ -14,5 +14,5 @@ project.
 
 Please run this link on your machine: https://mybinder.org/v2/gh/runner16/game_sentiment_analysis/HEAD.
 
-Afterwards, click on Game Console Sentiment Analysis- Markdown - Binder Version and then hover "Cell" on the top menu and select "Run All".
+Afterwards, click on Game Console Sentiment Analysis- Markdown - Binder Version and then hover over "Cell" on the top menu and select "Run All".
 The project should run on your machine.
